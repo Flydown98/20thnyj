@@ -1,6 +1,6 @@
 window.NYJ20_CONFIG = {
   // Apps Script를 웹 앱으로 배포한 뒤 /exec 주소를 입력하세요.
-  appsScriptUrl: 'PASTE_YOUR_APPS_SCRIPT_EXEC_URL_HERE',
+  appsScriptUrl: 'https://script.google.com/macros/s/AKfycbztF1UtgtQGgjoDj9zY8H6q3LP-tAJHJ90QSwurxsEHjTtaU0HCdMkvRAklnv5FBU8f/exec',
   requestTimeoutMs: 30000,
   defaultAutoRefreshSeconds: 15,
 
